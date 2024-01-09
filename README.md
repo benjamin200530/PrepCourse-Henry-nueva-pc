@@ -1,2 +1,1 @@
-# PrepCourse-Henry-nueva-pc
-es un repositorio de prueba del modulo 2
+este projecto es una prueba de como crear un repositorio y como clonarlo desde github a mi computadora
